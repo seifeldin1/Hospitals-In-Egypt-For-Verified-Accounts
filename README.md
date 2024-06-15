@@ -6,6 +6,8 @@ The project was to check if the user account is authenticated or not and if it i
 
 This website was designed using css, react.js and javascript.
 
+After clicking on login ==> click on return back to homepage and you will find the option to go to see hospitals list available for you only if you have entered the correct username and password. But if you have entered a wrong username or password then an error message will be displayed and if you clicked on the return to homepage you will find that it is written that user is not authenticated and the option to visit hosptials list page will not be available.
+
 The accounts are:
 
 username: seif , password:1220246
