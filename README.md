@@ -1,3 +1,19 @@
+# Website Description:
+
+This was a small project as a task at IEEE Web Development Course for spring 2024 , you can find the certificate at my linkedin account (https://www.linkedin.com/in/seif-dakroury-155747267/)
+
+The project was to check if the user account is authenticated or not and if it is authenticated then the user can view the list of hospitals in egypt using an API. 
+
+This website was designed using css, react.js and javascript.
+
+The accounts are:
+username: seif , password:1220246
+username: shahd , password:1220242
+username: malak , password:1220265
+username: sarah , password:1220659
+username: mazen , password:1220269
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
