@@ -7,10 +7,15 @@ The project was to check if the user account is authenticated or not and if it i
 This website was designed using css, react.js and javascript.
 
 The accounts are:
+
 username: seif , password:1220246
+
 username: shahd , password:1220242
+
 username: malak , password:1220265
+
 username: sarah , password:1220659
+
 username: mazen , password:1220269
 
 
